@@ -37,10 +37,10 @@
 <h2 style="text-align:center">Product Card</h2>
 
 <div class="card">
-  <img src="/w3images/jeans3.jpg" alt="Denim Jeans" style="width:100%">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/81sJTTFPgZL._AC_SX569_.jpg" alt="Crunchy Cheetos" style="width:100%">
   <h1>Tailored Jeans</h1>
   <p class="price">$19.99</p>
-  <p>Some text about the jeans. Super slim and comfy lorem ipsum lorem jeansum. Lorem jeamsun denim lorem jeansum.</p>
+  <p>Crunchy Cheesey Goodness Fillied Into A Single Bag</p>
   <p><button>Add to Cart</button></p>
 </div>
 
