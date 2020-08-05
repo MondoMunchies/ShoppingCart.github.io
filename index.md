@@ -62,7 +62,7 @@
       </div>
       <div class="terms">
         <h4 class="headline-primary">Terms & Conditions</h3>
-        <p class="review">Clicking on "I Agree" means you agree to GoDaddy's <a href="terms/show">Terms & Conditions</a>.</p>
+        <p class="review">Clicking on "I Agree" means you agree to MondoMunchies <a href="terms/show">Terms & Conditions</a>.</p>
         <p class="review"><strong>Products automatically</strong> renew until cancelled, and are billed to your payment method on file. Turn off auto-renew in your GoDaddy account.</p>
         <p class="agreed">I've read and agreed to the <a href="terms/show">Term & Conditions</a>.</p>
         <button type="button" class="btn btn-purchase review">I Agree</button>
